@@ -1,6 +1,6 @@
 'use strict';
 
-var storj = require('storj-lib');
+var storj = require('genaro-lib');
 var mongoose = require('mongoose');
 var expect = require('chai').expect;
 var MongoAdapter = require('..');
